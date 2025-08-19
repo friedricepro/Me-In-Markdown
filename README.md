@@ -12,6 +12,10 @@ For this school year I will try to of course maintain all A's in my classes, but
 5 Adv PE - Many many troublemakers, running during the summers was NOT nice, our free playtime period on fridays was taken away because for some reason my period would rather play on their phone in a corner than play with other people.
 6 Spanish 1 (Ms Gonzalez) - Horrible period, many troublemakers, a lot of yelling, course material did not line up to material being tested on, far away from lunch line so I always got lunch late.
 
-MINI PLAYLIST
-Me-In-Markdown Playlist
+## Spotify Playlist
+
 [Me-In-Markdown Playlist](https://open.spotify.com/playlist/1SNBnfligpmxyWgm39yMIF?si=5286f2804b49446f)
+
+## Mood Board
+
+<img width="1221" height="620" alt="image" src="https://github.com/user-attachments/assets/995869cc-6900-41f4-9cb1-b10ae21fe766" />

@@ -14,3 +14,4 @@ For this school year I will try to of course maintain all A's in my classes, but
 
 MINI PLAYLIST
 Me-In-Markdown Playlist
+[Me-In-Markdown Playlist](https://open.spotify.com/playlist/1SNBnfligpmxyWgm39yMIF?si=5286f2804b49446f)
